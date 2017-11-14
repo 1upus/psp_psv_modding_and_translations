@@ -1,3 +1,16 @@
+psp_pgf_fullinfo.zip
+
+Zipped info about default psp .pgf fonts from flash0.
+
+No fonts included, you can dump it by yourself or google it.
+
+Data was dumped with pgftool https://github.com/tpunix/pgftool
+
+Included data for all fonts excl. kr0.pgf: font header, metrics table,
+chars map, chars info, shadow map, chars pointer.
+
+Chars bitmap also can be dumped with pgftool.
+
 
 PSP flash0:font/*.pgf
 
