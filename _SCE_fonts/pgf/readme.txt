@@ -1,19 +1,19 @@
-psp_pgf_fullinfo.zip
-
-Zipped info about default psp .pgf fonts from flash0.
-
-No fonts included, you can dump it by yourself or google it.
+No fonts included, you can copy it from your PSP or google it.
 
 Data was dumped with pgftool https://github.com/tpunix/pgftool
 
 Included data for all fonts excl. kr0.pgf: font header, metrics table,
-chars map, chars info, shadow map, chars pointer.
+chars map, chars info, shadow map, chars pointer, chars bitmap.
 
-Chars bitmap also can be dumped with pgftool.
+NOTE:
+1. jpn0.pgf has incorrect table for cyrillic charset, so russian text
+displays with wide spacing. ltn*.pgf has not this problem.
 
+2. Also cyrillic chars from Matisse the same as NewRodin.
 
-PSP flash0:font/*.pgf
+3. kr0.pgf data can not be dumped with pgftool :/
 
+------------------------------------------------- PSP flash0:font/*.pgf -
 - filename ----------- font family ------ size px --- type --- filesize -
 arib.pgf     SCE-PS3 NewRodin JPN Regular  10.125      Regular    185 512
 jpn0.pgf              FTT-NewRodin Pro DB  10.125      Regular  1 581 700
@@ -36,6 +36,7 @@ ltn14.pgf          FTT-NewRodin Pro Latin   7.000  Bold Italic     45 184
 ltn15.pgf           FTT-Matisse Pro Latin   7.000  Bold Italic     43 044
 
 
-PSV sa0:data/font/pgf/*.pgf
-
+------------------------------------------- PSV sa0:data/font/pgf/*.pgf -
 - filename ----------- font family ------ size px --- type --- filesize -
+
+WIP
