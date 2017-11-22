@@ -1,0 +1,1671 @@
+[START]
+---
+[END]
+
+[START]
+Нажмите кнопку SТАRТ
+[END]
+
+[START]
+ВЫХОД
+[END]
+
+[START]
+ЗАГРУЗКА
+[END]
+
+[START]
+Возврат к меню
+[END]
+
+[START]
+Новая игра
+[END]
+
+[START]
+Продолжить
+[END]
+
+[START]
+Обучение
+[END]
+
+[START]
+(Не)удачная помощь
+[END]
+
+[START]
+Вспышка в пустоте
+[END]
+
+[START]
+Падение в рай
+[END]
+
+[START]
+Падение в рай. Часть 2
+[END]
+
+[START]
+Перестрелка
+[END]
+
+[START]
+Перестрелка. Часть 2
+[END]
+
+[START]
+Неверный выход из рая
+[END]
+
+[START]
+Зеркало, призрак и ловушка
+[END]
+
+[START]
+Небесная цитадель
+[END]
+
+[START]
+Просветление
+[END]
+
+[START]
+Судный день
+[END]
+
+[START]
+Судный день. Часть 2
+[END]
+
+[START]
+Сетевая игра
+[END]
+
+[START]
+МЕДАЛИ
+[END]
+
+[START]
+Настройки
+[END]
+
+[START]
+Продолжить
+[END]
+
+[START]
+Начать с чекпоинта
+[END]
+
+[START]
+Перезапуск уровня
+[END]
+
+[START]
+Показать
+[END]
+
+[START]
+Скрыть
+[END]
+
+[START]
+Первый
+[END]
+
+[START]
+Вперёд
+[END]
+
+[START]
+Назад
+[END]
+
+[START]
+Сброс
+[END]
+
+[START]
+Профиль
+[END]
+
+[START]
+Эффекты
+[END]
+
+[START]
+Отрисовка эффектов
+[END]
+
+[START]
+РЕЖИМ БОГА: ВКЛ
+[END]
+
+[START]
+РЕЖИМ БОГА: ОТКЛ
+[END]
+
+[START]
+СINЕМАТIС DЕВUG: ВКЛ
+[END]
+
+[START]
+NАVМЕSН DЕВUG: ВКЛ
+[END]
+
+[START]
+DЕВUG NАVМЕSН: ОТКЛ
+[END]
+
+[START]
+INFО DЕВUG: ВКЛ
+[END]
+
+[START]
+INFО DЕВUG: ОТКЛ
+[END]
+
+[START]
+СINЕМАТIС DЕВUG: ОТКЛ
+[END]
+
+[START]
+Поворот на 180º: ВКЛ
+[END]
+
+[START]
+Поворот на 180º: ОТКЛ
+[END]
+
+[START]
+Компас: ВКЛ
+[END]
+
+[START]
+Компас: ОТКЛ
+[END]
+
+[START]
+АКТИВИРОВАТЬ
+[END]
+
+[START]
+НАЗАД
+[END]
+
+[START]
+ВПЕРЁД
+[END]
+
+[START]
+OK
+[END]
+
+[START]
+Назад
+[END]
+
+[START]
+Принять
+[END]
+
+[START]
+-
+[END]
+
+[START]
+Инверсия оси Y: ВКЛ
+[END]
+
+[START]
+Инверсия оси Y: ОТКЛ
+[END]
+
+[START]
+Чувствительность
+[END]
+
+[START]
+Атака
+[END]
+
+[START]
+Движение
+[END]
+
+[START]
+Прицел
+[END]
+
+[START]
+Схема управления
+[END]
+
+[START]
+Схема управления 1
+[END]
+
+[START]
+Схема управления 2
+[END]
+
+[START]
+Схема управления 3
+[END]
+
+[START]
+Схема управления 4
+[END]
+
+[START]
+Схема управления 5
+[END]
+
+[START]
+Схема управления 6
+[END]
+
+[START]
+Схема управления 7
+[END]
+
+[START]
+Ориентация: 90º
+[END]
+
+[START]
+Ориентация: 270º
+[END]
+
+[START]
+Автоцентровка: ВКЛ
+[END]
+
+[START]
+Автоцентровка: ОТКЛ
+[END]
+
+[START]
+Автосмена оружия: ВКЛ
+[END]
+
+[START]
+Автосмена оружия: ОТКЛ
+[END]
+
+[START]
+Автоприцел: ВКЛ
+[END]
+
+[START]
+Автоприцел: ОТКЛ
+[END]
+
+[START]
+Аудио
+[END]
+
+[START]
+Общая громкость
+[END]
+
+[START]
+Громкость эффектов
+[END]
+
+[START]
+Громкость музыки
+[END]
+
+[START]
+ОТКЛ
+[END]
+
+[START]
+МАКС
+[END]
+
+[START]
+Tune
+[END]
+
+[START]
+Интерфейс вкл
+[END]
+
+[START]
+Интерфейс откл
+[END]
+
+[START]
+Уровни
+[END]
+
+[START]
+Хотите выйти в главное меню?
+[END]
+
+[START]
+Хотите переиграть уровень?
+[END]
+
+[START]
+Хотите начать с последнего чекпоинта?
+[END]
+
+[START]
+Хотите начать новую игру?
+[END]
+
+[START]
+Сложность
+[END]
+
+[START]
+Низкая
+[END]
+
+[START]
+Обычная
+[END]
+
+[START]
+Высокая
+[END]
+
+[START]
+Выбор уровня
+[END]
+
+[START]
+Звук
+[END]
+
+[START]
+Управление
+[END]
+
+[START]
+Дополнительно
+[END]
+
+[START]
+Язык
+[END]
+
+[START]
+Инфо
+[END]
+
+[START]
+Авторы
+[END]
+
+[START]
+Помощь
+[END]
+
+[START]
+ДА
+[END]
+
+[START]
+НЕТ
+[END]
+
+[START]
+ФАКТОР ВРЕМЕНИ
+[END]
+
+[START]
+Сброс
+[END]
+
+[START]
+Настройка интерфейса
+[END]
+
+[START]
+Задания
+[END]
+
+[START]
+Основное задание:
+[END]
+
+[START]
+Лог
+[END]
+
+[START]
+Карта
+[END]
+
+[START]
+Инструкции
+[END]
+
+[START]
+Отмена
+Взлом
+[END]
+
+[START]
+МЕНЮ
+[END]
+
+[START]
+Пропустить
+[END]
+
+[START]
+Прогресс сохранён
+[END]
+
+[START]
+---
+[END]
+
+[START]
+Запитайте все фотонные ячейки для осуществления взлома.
+[END]
+
+[START]
+Активируйте генератор светового луча.
+[END]
+
+[START]
+Используйте зеркала для изменения направления луча.
+[END]
+
+[START]
+Используйте сплиттеры для разделения луча.
+[END]
+
+[START]
+Выбрать и установить зеркало или сплиттер можно нажатием кнопки ¬1 ¬D ¬0.
+[END]
+
+[START]
+Поворачивать зеркала можно нажатием  ¬1 кнопки R ¬0.
+[END]
+
+[START]
+Эти блоки поглощают свет и гасят луч.
+[END]
+
+[START]
+Осторожно! Не направляйте луч в красные блоки, иначе система будет отключена.
+[END]
+
+[START]
+Взлом выполнен!
+[END]
+
+[START]
+Взлом не удался!
+[END]
+
+[START]
+Фраги
+[END]
+
+[START]
+Боекомплект полон
+[END]
+
+[START]
+You must activate the photosensors to hack into the circuit.
+[END]
+
+[START]
+Use light from the generators to activate the photosensors.
+[END]
+
+[START]
+You need to use mirrors to deflect light. 
+[END]
+
+[START]
+Select a mirror with ¬1 ¬D ¬0and move it around with the directional buttons.
+[END]
+
+[START]
+Press the ¬1 R button ¬0 to rotate the mirror. 
+[END]
+
+[START]
+Now highlight the generator and press ¬1 ¬D ¬0 to activate it.
+[END]
+
+[START]
+The circuit has been successfully hacked. Now it's your turn.
+[END]
+
+[START]
+
+[END]
+
+[START]
+
+[END]
+
+[START]
+
+[END]
+
+[START]
+To hack the device, rotate the circles and align all the green dots on a single line.
+[END]
+
+[START]
+Avoid intersecting a green dot with a red dot from nearby circles when rotating them.
+[END]
+
+[START]
+Unlock Levels
+[END]
+
+[START]
+CONGRATULATIONS!
+[END]
+
+[START]
+Stats
+[END]
+
+[START]
+Medals
+[END]
+
+[START]
+Collected items: 
+[END]
+
+[START]
+Headshots: 
+[END]
+
+[START]
+Enemies killed: 
+[END]
+
+[START]
+Favourite weapon: 
+[END]
+
+[START]
+Accuracy: 
+[END]
+
+[START]
+Play time: 
+[END]
+
+[START]
+Handgun
+[END]
+
+[START]
+Shotgun
+[END]
+
+[START]
+Assault rifle
+[END]
+
+[START]
+Sniper rifle
+[END]
+
+[START]
+Grenade
+[END]
+
+[START]
+Plasma gun
+[END]
+
+[START]
+Rocket launcher
+[END]
+
+[START]
+Melee
+[END]
+
+[START]
+Master of Serenity
+[END]
+
+[START]
+Short-Fused
+[END]
+
+[START]
+Pistolero
+[END]
+
+[START]
+Ghost
+[END]
+
+[START]
+On the Edge
+[END]
+
+[START]
+Ultra Collector
+[END]
+
+[START]
+Master Hacker
+[END]
+
+[START]
+Paralyser
+[END]
+
+[START]
+Fast Reflexes
+[END]
+
+[START]
+Vanguard
+[END]
+
+[START]
+Havoc Messiah
+[END]
+
+[START]
+Smooth Assassin
+[END]
+
+[START]
+Superhero
+[END]
+
+[START]
+Saviour
+[END]
+
+[START]
+Berserker
+[END]
+
+[START]
+Hacker
+[END]
+
+[START]
+Collector
+[END]
+
+[START]
+Adrenaline Junkie
+[END]
+
+[START]
+Duellist
+[END]
+
+[START]
+Maimed
+[END]
+
+[START]
+Retry
+[END]
+
+[START]
+Read all in-game messages without skipping
+[END]
+
+[START]
+Skip all in-game messages
+[END]
+
+[START]
+Complete a level on Hard difficulty using only a pistol
+[END]
+
+[START]
+Complete one level on Hard difficulty without low shield situations
+[END]
+
+[START]
+Kill one enemy with a melee hit in a low shield situation.
+[END]
+
+[START]
+Pick up all upgrade collectibles
+[END]
+
+[START]
+Hack all ammo packs
+[END]
+
+[START]
+Paralyse 20 enemies
+[END]
+
+[START]
+Use fast reflex power 20 times
+[END]
+
+[START]
+Finish the game on Hard difficulty
+[END]
+
+[START]
+Kill 3 enemies with the same grenade
+[END]
+
+[START]
+20 headshots
+[END]
+
+[START]
+Use the suit's powers 100 times
+[END]
+
+[START]
+Complete the game saving all endangered marines
+[END]
+
+[START]
+Kill 5 enemies in 10 seconds
+[END]
+
+[START]
+Hack 80% ammo packs
+[END]
+
+[START]
+Pick up 80% of the upgrade collectibles
+[END]
+
+[START]
+Survive 20 low-health situations (blinking shield)
+[END]
+
+[START]
+Kill 20 enemies with the pistol
+[END]
+
+[START]
+Get hit by 20 thrown Demon clubs
+[END]
+
+[START]
+Debug
+[END]
+
+[START]
+Cheats
+[END]
+
+[START]
+Cheat Win
+[END]
+
+[START]
+End Level
+[END]
+
+[START]
+Weapon stay: OFF
+[END]
+
+[START]
+Weapon stay: ON
+[END]
+
+[START]
+Are you sure you want to restart the level?
+[END]
+
+[START]
+Kills
+[END]
+
+[START]
+Ping
+[END]
+
+[START]
+Head
+shots
+[END]
+
+[START]
+Points
+[END]
+
+[START]
+Deaths
+[END]
+
+[START]
+Remember me
+[END]
+
+[START]
+N.O.V.A. - Near Orbit
+Vanguard Alliance
+[END]
+
+[START]
+VERSION 
+[END]
+
+[START]
+INFO AND CUSTOMER CARE:
+WWW.GAMELOFT.COM
+SUPPORT@GAMELOFT.COM 
+[END]
+
+[START]
+© 2010 GAMELOFT. ALL RIGHTS RESERVED. GAMELOFT, THE GAMELOFT LOGO AND N.O.V.A. NEAR ORBIT VANGUARD ALLIANCE ARE TRADEMARKS OF GAMELOFT IN THE U.S. AND/OR OTHER COUNTRIES.
+[END]
+
+[START]
+Adaptation to PSP¬3
+[END]
+
+[START]
+Executive Producer:
+Jonathan Stock
+[END]
+
+[START]
+Console Division Manager:
+Philippe Laurens
+[END]
+
+[START]
+Studio Manager:
+Max Blancarte
+[END]
+
+[START]
+Producers:
+François-Xavier Durand
+Noe Tapia
+[END]
+
+[START]
+Lead Programmers:
+Cesar Valdez
+Daniel Salinas
+[END]
+
+[START]
+Programmers:
+Carlos Rivas
+Carlos Zarate
+Eder Renteria
+Edgar Lopez
+Miguel Angel Gonzalez
+[END]
+
+[START]
+3D Lead Artist:
+Oswaldo Meza
+[END]
+
+[START]
+3D Artists:
+Alberto Verdugo
+Cesar Garcia
+Galo Carrillo
+[END]
+
+[START]
+2D Artists:
+Alberto Gomez
+Victor Lozada
+[END]
+
+[START]
+Audio Director:
+Mathieu Vachon
+[END]
+
+[START]
+Sound QA Manager:
+Ulrich Franz
+[END]
+
+[START]
+Sound Testers:
+David Noel
+Gabriel Boivin-Simard
+Giovanni Laurelli
+Nicholas Lupien
+[END]
+
+[START]
+Localisation Manager:
+Alexis Green-Painchaud
+[END]
+
+[START]
+Localisation Team:
+Fred Leung
+Alicja Buffa
+Mariko McDonald
+Kasper Hartman
+Owen Weiss
+Timothy LeClair
+[END]
+
+[START]
+Console Division QA Manager:
+Ge Jian Feng
+[END]
+
+[START]
+QA Studio Manager:
+Nicolas Gauvreau
+Sun Jie
+[END]
+
+[START]
+QA Lead:
+Hu Yao Ling
+Marie-Lou Landry
+[END]
+
+[START]
+QA Team:
+Gilles-Philip Bois
+Gong Zhu Jia
+Hu Bing Bin
+Hu Cheng Jie
+Hu Hui Juan
+Jiang Yao Ting
+Li Wen Feng
+Ren Yan
+Sui Zheng Rong
+Sun Zheng Liang
+Tan Ye Tao
+Wu Xiao Lei
+Ye Wei
+Zhang Lin Yun
+Zhang Ya Rong
+[END]
+
+[START]
+Special thanks to Adrien Gimate, for all the support during this project.
+We wish you the best in your new quests!
+[END]
+
+[START]
+Original Creation Team
+[END]
+
+[START]
+Executive Producers:
+Arnaud Bonnard
+Tanguy Pallier
+[END]
+
+[START]
+Producer:
+Dragos Gafita 
+[END]
+
+[START]
+Rich Gaming Division Manager:
+Mathieu Verlaet 
+[END]
+
+[START]
+Studio Creations Manager:
+Bogdan Lucaci
+[END]
+
+[START]
+Creative Director:
+Stanislas Dewavrin
+[END]
+
+[START]
+Art Director:
+Arthur Hugot 
+[END]
+
+[START]
+3D Director:
+Christophe Latour 
+[END]
+
+[START]
+Lead Designer:
+Stefan Zamfir
+[END]
+
+[START]
+Game Designers:
+Radu Manole
+Marius Catalin Petculescu
+Mihai Alin Dindareanu
+[END]
+
+[START]
+Technical Director:
+Brice "33" Ramard
+[END]
+
+[START]
+Studio Technical Director:
+Dragos Iftimi
+[END]
+
+[START]
+Lead Programmer:
+Andi George Matei
+[END]
+
+[START]
+Programmers:
+Mihai Sebea
+Nicolae Stancu
+Radu Constantinescu
+Nicolae Georgescu
+Bogdan Stan
+Bogdan Ursu
+Valentin Galea
+[END]
+
+[START]
+Lead 3D Artist:
+Nandor Mihaly Penzes
+[END]
+
+[START]
+Studio Lead 3D Artist:
+Aurel Manea
+[END]
+
+[START]
+3D Artists:
+Mihai Ilie
+Vincent Pelisson
+Julien Lagrid
+Dragos Pop
+Claudiu Manea
+[END]
+
+[START]
+Lead 2D Artist:
+Catalin Raibuh
+[END]
+
+[START]
+Studio Lead 2D Artist:
+Istvan Kovacs
+[END]
+
+[START]
+2D Artist:
+Alexandru Negoita
+[END]
+
+[START]
+Pack/Trailer
+[END]
+
+[START]
+Producer:
+Benjamin Goldman
+[END]
+
+[START]
+Artistic Supervision:
+Paulo Toledo
+[END]
+
+[START]
+Character Modeling:
+Pascal Beaulieu
+[END]
+
+[START]
+Character Shader:
+Chi Vang
+[END]
+
+[START]
+Pack:
+Cristobal Nieto
+[END]
+
+[START]
+Trailer
+[END]
+
+[START]
+Environment:
+Thibaut Claeys
+[END]
+
+[START]
+Animation:
+Hosuck Moon
+[END]
+
+[START]
+Render/Light:
+Marie Eve Provencal
+[END]
+
+[START]
+Technical Artist:
+Juan Martin Lutteral
+[END]
+
+[START]
+Matte Painting:
+Cristobal Nieto
+[END]
+
+[START]
+Audio Director:
+Mathieu Vachon
+[END]
+
+[START]
+Composer:
+Pascal Dion
+[END]
+
+[START]
+Sound Designer:
+Jerome Laberge
+[END]
+
+[START]
+Voice Overs:
+Game Audio Factory
+Frank Doyle
+[END]
+
+[START]
+Sound QA Manager:
+Ulrich Frantz
+[END]
+
+[START]
+Sound Testers:
+Nicolas Trovato
+Renaud Baril
+[END]
+
+[START]
+Modelling:
+Mircea Cristea
+[END]
+
+[START]
+Lead 3D Animator:
+Iura Sinchevici
+[END]
+
+[START]
+Animators:
+Iuliana Vladulescu
+Amalia Slavescu
+Robert Victor Wegeman
+Virgil Toader
+[END]
+
+[START]
+Localisation Manager:
+Alexis Green-Painchaud
+[END]
+
+[START]
+Localisation Team:
+Alicja Buffa
+Fred Leung
+Mariko McDonald
+Kasper Hartman
+Owen Weiss
+Timothy LeClair
+[END]
+
+[START]
+Writer:
+Patrick Downs
+[END]
+
+[START]
+Focus Groups
+[END]
+
+[START]
+Product Research Manager:
+Amos Berger
+[END]
+
+[START]
+Product Research Analysts:
+Elizabeth Cronin
+Raul Salcedo
+[END]
+
+[START]
+QA Manager:
+Costel Apopii
+Sun Jie
+Nicolas Gauvreau
+[END]
+
+[START]
+QA Project Manager:
+Zhou Tong
+[END]
+
+[START]
+QA Lead:
+Sun Xiao Jian
+[END]
+
+[START]
+Quality Assurance:
+Chen Yan Jie
+Li Bin
+Liu Xiao Chen
+Shen Bo
+Shen Jia Dong
+Sun Jun
+Yang Yu Ting
+Zhang Ming Jun
+Zhang Xiao
+Zhou Zi Han
+[END]
+
+[START]
+Japan team 
+[END]
+
+[START]
+Next-Gen Support:
+ Yumiko Nishi
+Taku Aizawa
+[END]
+
+[START]
+Translation Lead:
+Akiko Nishimura
+[END]
+
+[START]
+Translation:
+Chihomi Sasaki
+Keigo Yoshida 
+[END]
+
+[START]
+QA Manager:
+Dennis Horte 
+[END]
+
+[START]
+Localisation Lead:
+Kenta Sekiya 
+[END]
+
+[START]
+Localisation:
+Ryuji Tomii
+Tomoaki Sato 
+[END]
+
+[START]
+Sans Nouveaux Font:
+Copyright © 2008
+Elvis Mehmedović
+[END]
+
+[START]
+The MIT License 
+[END]
+
+[START]
+Copyright (c) 2008
+Elvis Mehmedović
+[END]
+
+[START]
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+[END]
+
+[START]
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+[END]
+
+[START]
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+[END]
+
+[START]
+SF Quartzite typeface designed by Derek Vogelpohl (http://www.shyfoundry.com).
+[END]
+
+[START]
+end
+[END]
+
+[START]
+CONGRATULATIONS!
+[END]
+
+[START]
+YOU FINISHED THE GAME!
+[END]
+
+[START]
+MATCH FINISHED! 
+[END]
+
+[START]
+∞
+[END]
+
+[START]
+Rank Variation
+[END]
+
+[START]
+Cargo Ship
+[END]
+
+[START]
+Jungle
+[END]
+
+[START]
+Bunker 
+[END]
+
+[START]
+Frozen
+[END]
+
+[START]
+Void
+[END]
+
+[START]
+© 2010 GAMELOFT
+[END]
+
+[START]
+This version of N.O.V.A. has been created specifically for demonstration purposes.
+[END]
+
+[START]
+Feature not enabled in this demo
+[END]
+
+[START]
+Select
+[END]
+
+[START]
+Back
+[END]
+
+[START]
+Marine
+[END]
+
+[START]
+Vanguard
+[END]
+
+[START]
+Auto levelling: 
+[END]
+
+[START]
+Aim assist:
+[END]
+
+[START]
+Turn 180º: 
+[END]
+
+[START]
+Compass: 
+[END]
+
+[START]
+ON
+[END]
+
+[START]
+OFF
+[END]
+
+[START]
+Use Turret
+[END]
+
+[START]
+Leave Turret
+[END]
+
+[START]
+Access
+[END]
+
+[START]
+Play Demo
+[END]
+
+[START]
+Thank you for playing N.O.V.A.
+[END]
+
+[START]
+Alpha Version
+[END]
+
+[START]
+This game saves data automatically at certain points. Do not remove the Memory Stick¬3 or turn off the PSP¬3 system while the Memory Stick¬3 access indicator is flashing.
+[END]
+
+[START]
+Are you sure you want to stop hacking? 
+[END]
+
+[START]
+Jump/Use/Activate
+[END]
+
+[START]
+Shoot
+[END]
+
+[START]
+Grenade
+[END]
+
+[START]
+Paralyse
+[END]
+
+[START]
+Reload
+[END]
+
+[START]
+Change Weapon
+[END]
+
+[START]
+Look Up
+[END]
+
+[START]
+Look Down
+[END]
+
+[START]
+Look Left
+[END]
+
+[START]
+Look Right
+[END]
+
+[START]
+Move Forward
+[END]
+
+[START]
+Move Backward
+[END]
+
+[START]
+Strafe Left
+[END]
+
+[START]
+Strafe Right
+[END]
+
+[START]
+Move/Walk
+[END]
+
+[START]
+Look/Aim
+[END]
+
+[START]
+Pause Game/In-game Menu
+[END]
+
+[START]
+Objectives
+[END]
+
+[START]
+Default
+[END]
+
+[START]
+Switch
+[END]
+
+[START]
+Change
+[END]
+
+[START]
+Change/Scroll
+[END]
+
+[START]
+Switch/Change
+[END]
+
+[START]
+Choose
+[END]
+
+[START]
+Leave Terminal
+[END]
+
+[START]
+Rotate
+[END]
+
+[START]
+Use Turret
+[END]
+
+[START]
+Leave Turret
+[END]
+
+[START]
+Shoot
+[END]
+
+[START]
+Scroll
+[END]
+
+[START]
+Rotate Circle
+[END]
+
+[START]
+Change Line
+[END]
+
+[START]
+There is not enough space on the
+Memory Stick¬3.
+At least %d KB of space is needed to save this game data. Do you want to delete existing save files?  
+[END]
+
+[START]
+An error has occurred.
+[END]
+
+[START]
+Save failed.
+The Memory Stick¬3 has been removed.
+[END]
+
+[START]
+There is no Memory Stick¬3 inserted.
+[END]
+
+[START]
+Load Failed.
+The data is corrupted.
+[END]
+
+[START]
+Medals
+[END]
+
+[START]
+Medals for N.O.V.A.
+[END]
+
+[START]
+Settings
+[END]
+
+[START]
+Settings for N.O.V.A.
+[END]
+
+[START]
+Saved Game
+[END]
+
+[START]
+Saved Game for N.O.V.A.
+[END]
+
+[START]
+Exit
+[END]
+
+[START]
+Saving...
+[END]
+
