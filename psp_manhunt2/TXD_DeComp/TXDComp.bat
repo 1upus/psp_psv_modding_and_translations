@@ -1,0 +1,2 @@
+TXDComp GLOBAL.TXD
+pause
