@@ -1,0 +1,20 @@
+PSP Coded Arms .arc format
+
+ARC file structure notation/pseudo C notation:
+
+*.arc {
+  byte header[16]=0x4B,0x43,0x45,0x4F,0x20,0x41,0x52,0x43,0x44,0x54,0x20,0x31,0x2E,0x30,0x00,0x00;
+  dword file_total;
+  dword file_list_start;
+  dword file_list_size;
+  
+  //... null data, but instead of using "null", the '-' symbol is used instead
+
+  //This starts at whatever offset is in file_list_start, and is the size set in file_list_size
+  byte file_name[24];
+  dword unknown; //2
+  dword file_size; //4735040
+  dword unknown2; //0
+
+  //The above structure would repeat again if file_total was greater than 1
+}
